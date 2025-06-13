@@ -14,11 +14,15 @@ O site proporciona uma experiência visual e imersiva no universo da banda, dest
 - 🖼️ Galeria de imagens e um formulário de contato
 
 🚀 Tecnologias Utilizadas
-HTML5 | CSS3 | Design Responsivo (em desenvolvimento) | Identidade visual personalizada e organização por seções
+- HTML5
+- CSS3
+- Design Responsivo (em desenvolvimento)
+- Identidade visual personalizada e organização por seções
 
 📌 Status
-🔧 Projeto em andamento — melhorias de layout e responsividade estão sendo implementadas.
+- Projeto em andamento — melhorias de layout e responsividade estão sendo implementadas.
 
 💡 Objetivo
 Este projeto visa não apenas praticar estruturação e estilização de páginas web, mas também explorar como a tecnologia pode ser usada para expressar narrativas e conectar fãs com o universo de seus artistas favoritos.
+
 
